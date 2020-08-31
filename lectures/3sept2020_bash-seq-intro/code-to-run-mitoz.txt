@@ -1,2 +1,2 @@
 source activate mitozEnv
-python MitoZ.py all --config mitoz_all_config.txt
+python /srv/repo/release_MitoZ_v2.4-alpha/MitoZ.py all --config mitoz_all_config.txt
