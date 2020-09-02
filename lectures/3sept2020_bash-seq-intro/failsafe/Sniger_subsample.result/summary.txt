@@ -1,0 +1,58 @@
+#Seq_id        Length(bp)     Circularity    Closely_related_species
+C5             16544          no             Callospermophilus lateralis
+
+
+#Seq_id        Start  End    Length(bp) Direction  Type   Gene_name  Gene_prodcut                      Total_freq_occurred
+--------------------------------------------------------------------------------------------------------------------------
+C5             620    689    70         +          tRNA   trnP(ugg)  tRNA-Pro                          1              
+C5             696    763    68         -          tRNA   trnT(ugu)  tRNA-Thr                          1              
+C5             1907   1976   70         +          tRNA   trnE(uuc)  tRNA-Glu                          1              
+C5             4302   4372   71         -          tRNA   trnL(uag)  tRNA-Leu                          2              
+C5             4372   4431   60         -          tRNA   trnS(gcu)  tRNA-Ser                          2              
+C5             4431   4500   70         -          tRNA   trnH(gug)  tRNA-His                          1              
+C5             6171   6237   67         -          tRNA   trnR(ucg)  tRNA-Arg                          1              
+C5             6584   6654   71         -          tRNA   trnG(ucc)  tRNA-Gly                          1              
+C5             6653   7438   786        -          CDS    COX3       cytochrome c oxidase subunit III  1              
+C5             7437   8118   682        -          CDS    ATP6       ATP synthase F0 subunit 6         1              
+C5             8075   8279   205        -          CDS    ATP8       ATP synthase F0 subunit 8         1              
+C5             8280   8347   68         -          tRNA   trnK(uuu)  tRNA-Lys                          1              
+C5             8350   9034   685        -          CDS    COX2       cytochrome c oxidase subunit II   1              
+C5             9034   9103   70         -          tRNA   trnD(guc)  tRNA-Asp                          1              
+C5             9106   9175   70         +          tRNA   trnS(uga)  tRNA-Ser                          2              
+C5             9177   10719  1543       -          CDS    COX1       cytochrome c oxidase subunit I    1              
+C5             10727  10793  67         +          tRNA   trnY(gua)  tRNA-Tyr                          1              
+C5             10793  10860  68         +          tRNA   trnC(gca)  tRNA-Cys                          1              
+C5             10890  10963  74         +          tRNA   trnN(guu)  tRNA-Asn                          1              
+C5             10969  11038  70         +          tRNA   trnA(ugc)  tRNA-Ala                          1              
+C5             11045  11115  71         -          tRNA   trnW(uca)  tRNA-Trp                          1              
+C5             12157  12226  70         -          tRNA   trnM(cau)  tRNA-Met                          1              
+C5             12229  12301  73         +          tRNA   trnQ(uug)  tRNA-Gln                          1              
+C5             12298  12367  70         -          tRNA   trnI(gau)  tRNA-Ile                          1              
+C5             13326  13400  75         -          tRNA   trnL(uaa)  tRNA-Leu                          2              
+C5             13400  14976  1577       -          rRNA   l-rRNA     16S ribosomal RNA                 1              
+C5             14974  15043  70         -          tRNA   trnV(uac)  tRNA-Val                          1              
+C5             15043  16013  971        -          rRNA   s-rRNA     12S ribosomal RNA                 1              
+C5             16013  16083  71         -          tRNA   trnF(gaa)  tRNA-Phe                          1              
+
+
+Protein coding genes totally found:  5
+tRNA genes totally found:           22
+rRNA genes totally found:            2
+--------------------------------------
+Genes totally found:                29
+
+
+Potential missing genes:
+#Gene             total_missing_number
+--------------------------------------
+CYTB                                 1
+ND1                                  1
+ND2                                  1
+ND3                                  1
+ND4                                  1
+ND4L                                 1
+ND5                                  1
+ND6                                  1
+
+The missing genes might be foud from the
+'*.high_abundance*' and '*.low_abundance*' files!
