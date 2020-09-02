@@ -1,0 +1,2 @@
+ERROR: valid [SEQ_FEAT.NoStop] Missing stop codon FEATURE: CDS: cytochrome c oxidase subunit III [lcl|C1:c5140-4356] [lcl|C1: raw, dna len= 16473] -> [lcl|C1_1]
+WARNING: valid [SEQ_INST.CompleteCircleProblem] Circular topology without complete flag set BIOSEQ: lcl|C1: raw, dna len= 16473
