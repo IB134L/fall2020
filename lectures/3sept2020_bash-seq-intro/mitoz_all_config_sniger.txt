@@ -31,10 +31,10 @@ thread_number = 8
 # Input fastq files
 
 # fastq 1 file
-fastq1 = Sniger-subsample-Illumina.fastq 
+fastq1 = Sniger-subsample-Illumina_R1.fastq 
 
 # fastq 2 file
-fastq2 = 
+fastq2 = Sniger-subsample-Illumina_R2.fastq
 
 # set 'True' if the input is in the Illumina 1.3 FASTQ-like (Q+64) format.
 fastq_quality_shift = True
